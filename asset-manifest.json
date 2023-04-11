@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hostly.github.io/static/css/main.909fd0ae.css",
+    "main.js": "/hostly.github.io/static/js/main.27b5fcd8.js",
+    "static/media/Header Illustration.png": "/hostly.github.io/static/media/Header Illustration.e9412b028f277d53f73b.png",
+    "static/media/possibility.png": "/hostly.github.io/static/media/possibility.6f3f62db86e81e86970f.png",
+    "static/media/Rectangle 22-4.png": "/hostly.github.io/static/media/Rectangle 22-4.a1caff7b3f3350506a92.png",
+    "static/media/Rectangle 22-1.png": "/hostly.github.io/static/media/Rectangle 22-1.7bdab80dba19326384f8.png",
+    "static/media/Rectangle 22-2.png": "/hostly.github.io/static/media/Rectangle 22-2.a56421095d7a29d2d4c1.png",
+    "static/media/Rectangle 22-3.png": "/hostly.github.io/static/media/Rectangle 22-3.848f4092767bd02a0968.png",
+    "static/media/Rectangle 22.png": "/hostly.github.io/static/media/Rectangle 22.11c1bbab115699b6f2a5.png",
+    "static/media/Group 81.png": "/hostly.github.io/static/media/Group 81.2e4d3b692ad9e138f30f.png",
+    "static/media/dropbox.png": "/hostly.github.io/static/media/dropbox.4d572f65bdcf3acc739b.png",
+    "static/media/atlassian.png": "/hostly.github.io/static/media/atlassian.c5d36cab9f0d7d3aac54.png",
+    "static/media/logo.svg": "/hostly.github.io/static/media/logo.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/hostly.github.io/index.html",
+    "main.909fd0ae.css.map": "/hostly.github.io/static/css/main.909fd0ae.css.map",
+    "main.27b5fcd8.js.map": "/hostly.github.io/static/js/main.27b5fcd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.909fd0ae.css",
+    "static/js/main.27b5fcd8.js"
+  ]
+}
